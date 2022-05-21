@@ -1,0 +1,14 @@
+#Pane{
+   -fx-background-color : linear-gradient(#ff0000, #d6d6d6);
+}
+
+#PPane{
+   -fx-background-color : linear-gradient(#ff0000, #ffffff);
+}
+#PPane2{
+    -fx-background-color: linear-gradient(from 0% 50% to 0% 100% , #dedede, #ff2929);
+}
+
+#gridPaneGame{
+    -fx-background-color: linear-gradient(from 0% 50% to 0% 100% , #b5b2b2, #f54c4c);
+}
